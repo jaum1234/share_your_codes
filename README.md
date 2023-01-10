@@ -55,12 +55,17 @@ First of all:
 ```
 
 ### Initializing client
-1. Install dependencies:
+1. From root directory:
+```
+    cd share-your-codes-vuejs
+```
+
+2. Install dependencies:
 ```
     npm install
 ```
 
-2. Init client:
+3. Init client:
 ```
     npm run serve
 ```
