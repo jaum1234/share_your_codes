@@ -11,7 +11,7 @@ Before getting started, make sure that you have installed:
 - Node.js 14.16.1;
 - Composer 2.4.4
 - MySQL
-- NPM 8.5.2
+- NPM 6.14.12
 
 First of all:
 ```
