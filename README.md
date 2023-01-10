@@ -15,7 +15,7 @@ Before getting started, make sure that you have installed:
 
 First of all:
 ```
-    git clone ${insert repository}
+    git clone https://github.com/jaum1234/share_your_codes.git
 ```
 
 ### Initializing server
