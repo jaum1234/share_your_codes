@@ -9,11 +9,16 @@ App for publishing and sharing code snippets, like Carbon.
 
 ## 🚀 Running on localhost
 Before getting started, make sure that you have installed:
-- PHP 7.4.21;
-- Node.js 14.16.1;
-- Composer 2.4.4
-- MySQL
-- NPM 6.14.12
+
+✔️ PHP 7.4.21;
+
+✔️ Node.js 14.16.1;
+
+✔️ Composer 2.4.4
+
+✔️ MySQL
+
+✔️ NPM 6.14.12
 
 First of all:
 ```
@@ -78,6 +83,9 @@ First of all:
 ```
 
 ## ✨ Features
-- Sign up, sign in and sign out with JWT;
-- Create, read, update and delete projects;
-- Share code snippets on social medias, like twitter or whatsapp;
+
+✔️ Sign up, sign in and sign out with JWT;
+
+✔️ Create, read, update and delete projects;
+
+✔️ Share code snippets on social medias, like twitter or whatsapp;
