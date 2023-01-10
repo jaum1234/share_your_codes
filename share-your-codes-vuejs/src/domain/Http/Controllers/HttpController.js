@@ -7,7 +7,7 @@ export default class HttpController
         if (process.env.VUE_APP_ENV == 'prod') {
             this.domain = 'https://share-your-codes-server.herokuapp.com/api/';
         } else if (process.env.VUE_APP_ENV == 'local') {
-            this.domain = 'http://localhost:3000/api/'
+            this.domain = 'http://localhost:8000/api/'
         }
     }
 

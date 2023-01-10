@@ -1,4 +1,5 @@
 <template>
+    <div>
     <pre v-highlightjs v-show="isActive" class="editor editor-highlight" :style="{ height: height, borderColor: borderColor }"><code class="javascript">{{ savedCode ? savedCode : code }}</code></pre>
     <textarea
         class="editor"
@@ -9,6 +10,7 @@
         :style="{height: height, borderColor: borderColor}"
         v-show="!isActive"
         ></textarea>
+    </div>
    
 </template>
 

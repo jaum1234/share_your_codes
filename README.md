@@ -51,9 +51,14 @@ First of all:
     php artisan migrate
 ```
 
-6. Init server:
+6. Generate JWT secret:
 ```
-    php artisan serve --port=3000
+    php artisan jwt:secret
+```
+
+7. Init server:
+```
+    php artisan serve
 ```
 
 ### Initializing client
