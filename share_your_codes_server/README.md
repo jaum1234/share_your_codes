@@ -1,5 +1,4 @@
 # Laravel API - Share Your Codes
-[Página principal](https://github.com/jaum1234/share-your-codes)
 
 ## Endpoints
 /api/*
