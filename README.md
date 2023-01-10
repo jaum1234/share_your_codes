@@ -1,6 +1,8 @@
 # Share Your Codes
 App for publishing and sharing code snippets, like Carbon.
 
+![Editor page](https://i.gyazo.com/090d997ae3c4f38cdbd15bae5dc4c16c.png)
+
 ## Table of contents
 - [Running on localhost](#🚀-running-on-localhost)
 - [Features](#✨-features)
