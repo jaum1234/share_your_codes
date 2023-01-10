@@ -8,7 +8,7 @@ App for publishing and sharing code snippets, like Carbon.
 ## 🚀 Running on localhost
 Before getting started, make sure that you have installed:
 - PHP 7.4.21;
-- Node.js 17.7.1;
+- Node.js 14.16.1;
 - Composer 2.4.4
 - MySQL
 - NPM 8.5.2
